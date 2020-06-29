@@ -1,5 +1,7 @@
 # The ODP Accounts API
 
+***This project has been merged into [Open-Data-Platform](https://github.com/SAEONData/Open-Data-Platform).***
+
 Back-office API providing accounts-related functions.
 
 ## Installation
